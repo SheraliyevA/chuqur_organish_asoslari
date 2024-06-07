@@ -1,0 +1,1204 @@
+{
+    "training": [
+        {
+            "patient": "107",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/107/107_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/107/107_seg.nii.gz"
+        },
+        {
+            "patient": "112",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/112/112_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/112/112_seg.nii.gz"
+        },
+        {
+            "patient": "113",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/113/113_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/113/113_seg.nii.gz"
+        },
+        {
+            "patient": "115",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/115/115_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/115/115_seg.nii.gz"
+        },
+        {
+            "patient": "126",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/126/126_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/126/126_seg.nii.gz"
+        },
+        {
+            "patient": "14",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/14/14_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/14/14_seg.nii.gz"
+        },
+        {
+            "patient": "149",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/149/149_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/149/149_seg.nii.gz"
+        },
+        {
+            "patient": "15",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/15/15_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/15/15_seg.nii.gz"
+        },
+        {
+            "patient": "153",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/153/153_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/153/153_seg.nii.gz"
+        },
+        {
+            "patient": "158",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/158/158_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/158/158_seg.nii.gz"
+        },
+        {
+            "patient": "159",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/159/159_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/159/159_seg.nii.gz"
+        },
+        {
+            "patient": "16",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/16/16_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/16/16_seg.nii.gz"
+        },
+        {
+            "patient": "160",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/160/160_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/160/160_seg.nii.gz"
+        },
+        {
+            "patient": "161",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/161/161_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/161/161_seg.nii.gz"
+        },
+        {
+            "patient": "167",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/167/167_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/167/167_seg.nii.gz"
+        },
+        {
+            "patient": "168",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/168/168_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/168/168_seg.nii.gz"
+        },
+        {
+            "patient": "17",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/17/17_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/17/17_seg.nii.gz"
+        },
+        {
+            "patient": "173",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/173/173_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/173/173_seg.nii.gz"
+        },
+        {
+            "patient": "175",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/175/175_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/175/175_seg.nii.gz"
+        },
+        {
+            "patient": "183",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/183/183_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/183/183_seg.nii.gz"
+        },
+        {
+            "patient": "185",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/185/185_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/185/185_seg.nii.gz"
+        },
+        {
+            "patient": "193",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/193/193_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/193/193_seg.nii.gz"
+        },
+        {
+            "patient": "22",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/22/22_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/22/22_seg.nii.gz"
+        },
+        {
+            "patient": "30",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/30/30_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/30/30_seg.nii.gz"
+        },
+        {
+            "patient": "31",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/31/31_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/31/31_seg.nii.gz"
+        },
+        {
+            "patient": "34",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/34/34_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/34/34_seg.nii.gz"
+        },
+        {
+            "patient": "38",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/38/38_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/38/38_seg.nii.gz"
+        },
+        {
+            "patient": "40",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/40/40_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/40/40_seg.nii.gz"
+        },
+        {
+            "patient": "42",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/42/42_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/42/42_seg.nii.gz"
+        },
+        {
+            "patient": "52",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/52/52_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/52/52_seg.nii.gz"
+        },
+        {
+            "patient": "54",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/54/54_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/54/54_seg.nii.gz"
+        },
+        {
+            "patient": "56",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/56/56_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/56/56_seg.nii.gz"
+        },
+        {
+            "patient": "61",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/61/61_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/61/61_seg.nii.gz"
+        },
+        {
+            "patient": "67",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/67/67_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/67/67_seg.nii.gz"
+        },
+        {
+            "patient": "68",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/68/68_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/68/68_seg.nii.gz"
+        },
+        {
+            "patient": "72",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/72/72_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/72/72_seg.nii.gz"
+        },
+        {
+            "patient": "76",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/76/76_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/76/76_seg.nii.gz"
+        },
+        {
+            "patient": "79",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/79/79_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/79/79_seg.nii.gz"
+        },
+        {
+            "patient": "83",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/83/83_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/83/83_seg.nii.gz"
+        },
+        {
+            "patient": "87",
+            "fold": 0,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/87/87_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/87/87_seg.nii.gz"
+        },
+        {
+            "patient": "103",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/103/103_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/103/103_seg.nii.gz"
+        },
+        {
+            "patient": "11",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/11/11_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/11/11_seg.nii.gz"
+        },
+        {
+            "patient": "116",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/116/116_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/116/116_seg.nii.gz"
+        },
+        {
+            "patient": "120",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/120/120_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/120/120_seg.nii.gz"
+        },
+        {
+            "patient": "122",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/122/122_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/122/122_seg.nii.gz"
+        },
+        {
+            "patient": "125",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/125/125_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/125/125_seg.nii.gz"
+        },
+        {
+            "patient": "127",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/127/127_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/127/127_seg.nii.gz"
+        },
+        {
+            "patient": "130",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/130/130_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/130/130_seg.nii.gz"
+        },
+        {
+            "patient": "133",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/133/133_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/133/133_seg.nii.gz"
+        },
+        {
+            "patient": "136",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/136/136_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/136/136_seg.nii.gz"
+        },
+        {
+            "patient": "137",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/137/137_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/137/137_seg.nii.gz"
+        },
+        {
+            "patient": "145",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/145/145_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/145/145_seg.nii.gz"
+        },
+        {
+            "patient": "165",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/165/165_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/165/165_seg.nii.gz"
+        },
+        {
+            "patient": "170",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/170/170_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/170/170_seg.nii.gz"
+        },
+        {
+            "patient": "177",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/177/177_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/177/177_seg.nii.gz"
+        },
+        {
+            "patient": "180",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/180/180_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/180/180_seg.nii.gz"
+        },
+        {
+            "patient": "186",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/186/186_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/186/186_seg.nii.gz"
+        },
+        {
+            "patient": "187",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/187/187_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/187/187_seg.nii.gz"
+        },
+        {
+            "patient": "188",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/188/188_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/188/188_seg.nii.gz"
+        },
+        {
+            "patient": "19",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/19/19_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/19/19_seg.nii.gz"
+        },
+        {
+            "patient": "2",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/2/2_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/2/2_seg.nii.gz"
+        },
+        {
+            "patient": "200",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/200/200_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/200/200_seg.nii.gz"
+        },
+        {
+            "patient": "21",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/21/21_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/21/21_seg.nii.gz"
+        },
+        {
+            "patient": "24",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/24/24_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/24/24_seg.nii.gz"
+        },
+        {
+            "patient": "25",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/25/25_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/25/25_seg.nii.gz"
+        },
+        {
+            "patient": "26",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/26/26_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/26/26_seg.nii.gz"
+        },
+        {
+            "patient": "29",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/29/29_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/29/29_seg.nii.gz"
+        },
+        {
+            "patient": "32",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/32/32_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/32/32_seg.nii.gz"
+        },
+        {
+            "patient": "33",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/33/33_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/33/33_seg.nii.gz"
+        },
+        {
+            "patient": "41",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/41/41_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/41/41_seg.nii.gz"
+        },
+        {
+            "patient": "44",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/44/44_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/44/44_seg.nii.gz"
+        },
+        {
+            "patient": "45",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/45/45_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/45/45_seg.nii.gz"
+        },
+        {
+            "patient": "48",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/48/48_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/48/48_seg.nii.gz"
+        },
+        {
+            "patient": "65",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/65/65_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/65/65_seg.nii.gz"
+        },
+        {
+            "patient": "71",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/71/71_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/71/71_seg.nii.gz"
+        },
+        {
+            "patient": "74",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/74/74_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/74/74_seg.nii.gz"
+        },
+        {
+            "patient": "75",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/75/75_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/75/75_seg.nii.gz"
+        },
+        {
+            "patient": "9",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/9/9_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/9/9_seg.nii.gz"
+        },
+        {
+            "patient": "95",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/95/95_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/95/95_seg.nii.gz"
+        },
+        {
+            "patient": "97",
+            "fold": 1,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/97/97_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/97/97_seg.nii.gz"
+        },
+        {
+            "patient": "1",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/1/1_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/1/1_seg.nii.gz"
+        },
+        {
+            "patient": "100",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/100/100_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/100/100_seg.nii.gz"
+        },
+        {
+            "patient": "102",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/102/102_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/102/102_seg.nii.gz"
+        },
+        {
+            "patient": "104",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/104/104_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/104/104_seg.nii.gz"
+        },
+        {
+            "patient": "108",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/108/108_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/108/108_seg.nii.gz"
+        },
+        {
+            "patient": "109",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/109/109_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/109/109_seg.nii.gz"
+        },
+        {
+            "patient": "119",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/119/119_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/119/119_seg.nii.gz"
+        },
+        {
+            "patient": "123",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/123/123_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/123/123_seg.nii.gz"
+        },
+        {
+            "patient": "124",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/124/124_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/124/124_seg.nii.gz"
+        },
+        {
+            "patient": "128",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/128/128_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/128/128_seg.nii.gz"
+        },
+        {
+            "patient": "129",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/129/129_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/129/129_seg.nii.gz"
+        },
+        {
+            "patient": "131",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/131/131_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/131/131_seg.nii.gz"
+        },
+        {
+            "patient": "139",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/139/139_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/139/139_seg.nii.gz"
+        },
+        {
+            "patient": "140",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/140/140_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/140/140_seg.nii.gz"
+        },
+        {
+            "patient": "154",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/154/154_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/154/154_seg.nii.gz"
+        },
+        {
+            "patient": "155",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/155/155_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/155/155_seg.nii.gz"
+        },
+        {
+            "patient": "157",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/157/157_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/157/157_seg.nii.gz"
+        },
+        {
+            "patient": "162",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/162/162_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/162/162_seg.nii.gz"
+        },
+        {
+            "patient": "169",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/169/169_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/169/169_seg.nii.gz"
+        },
+        {
+            "patient": "176",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/176/176_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/176/176_seg.nii.gz"
+        },
+        {
+            "patient": "190",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/190/190_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/190/190_seg.nii.gz"
+        },
+        {
+            "patient": "198",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/198/198_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/198/198_seg.nii.gz"
+        },
+        {
+            "patient": "20",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/20/20_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/20/20_seg.nii.gz"
+        },
+        {
+            "patient": "27",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/27/27_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/27/27_seg.nii.gz"
+        },
+        {
+            "patient": "3",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/3/3_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/3/3_seg.nii.gz"
+        },
+        {
+            "patient": "46",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/46/46_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/46/46_seg.nii.gz"
+        },
+        {
+            "patient": "47",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/47/47_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/47/47_seg.nii.gz"
+        },
+        {
+            "patient": "49",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/49/49_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/49/49_seg.nii.gz"
+        },
+        {
+            "patient": "5",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/5/5_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/5/5_seg.nii.gz"
+        },
+        {
+            "patient": "50",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/50/50_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/50/50_seg.nii.gz"
+        },
+        {
+            "patient": "57",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/57/57_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/57/57_seg.nii.gz"
+        },
+        {
+            "patient": "62",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/62/62_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/62/62_seg.nii.gz"
+        },
+        {
+            "patient": "64",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/64/64_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/64/64_seg.nii.gz"
+        },
+        {
+            "patient": "66",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/66/66_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/66/66_seg.nii.gz"
+        },
+        {
+            "patient": "69",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/69/69_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/69/69_seg.nii.gz"
+        },
+        {
+            "patient": "88",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/88/88_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/88/88_seg.nii.gz"
+        },
+        {
+            "patient": "90",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/90/90_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/90/90_seg.nii.gz"
+        },
+        {
+            "patient": "91",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/91/91_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/91/91_seg.nii.gz"
+        },
+        {
+            "patient": "94",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/94/94_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/94/94_seg.nii.gz"
+        },
+        {
+            "patient": "98",
+            "fold": 2,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/98/98_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/98/98_seg.nii.gz"
+        },
+        {
+            "patient": "101",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/101/101_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/101/101_seg.nii.gz"
+        },
+        {
+            "patient": "105",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/105/105_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/105/105_seg.nii.gz"
+        },
+        {
+            "patient": "106",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/106/106_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/106/106_seg.nii.gz"
+        },
+        {
+            "patient": "110",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/110/110_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/110/110_seg.nii.gz"
+        },
+        {
+            "patient": "114",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/114/114_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/114/114_seg.nii.gz"
+        },
+        {
+            "patient": "12",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/12/12_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/12/12_seg.nii.gz"
+        },
+        {
+            "patient": "121",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/121/121_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/121/121_seg.nii.gz"
+        },
+        {
+            "patient": "13",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/13/13_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/13/13_seg.nii.gz"
+        },
+        {
+            "patient": "134",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/134/134_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/134/134_seg.nii.gz"
+        },
+        {
+            "patient": "135",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/135/135_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/135/135_seg.nii.gz"
+        },
+        {
+            "patient": "138",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/138/138_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/138/138_seg.nii.gz"
+        },
+        {
+            "patient": "141",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/141/141_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/141/141_seg.nii.gz"
+        },
+        {
+            "patient": "143",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/143/143_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/143/143_seg.nii.gz"
+        },
+        {
+            "patient": "147",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/147/147_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/147/147_seg.nii.gz"
+        },
+        {
+            "patient": "152",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/152/152_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/152/152_seg.nii.gz"
+        },
+        {
+            "patient": "164",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/164/164_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/164/164_seg.nii.gz"
+        },
+        {
+            "patient": "171",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/171/171_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/171/171_seg.nii.gz"
+        },
+        {
+            "patient": "172",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/172/172_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/172/172_seg.nii.gz"
+        },
+        {
+            "patient": "174",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/174/174_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/174/174_seg.nii.gz"
+        },
+        {
+            "patient": "18",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/18/18_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/18/18_seg.nii.gz"
+        },
+        {
+            "patient": "181",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/181/181_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/181/181_seg.nii.gz"
+        },
+        {
+            "patient": "184",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/184/184_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/184/184_seg.nii.gz"
+        },
+        {
+            "patient": "194",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/194/194_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/194/194_seg.nii.gz"
+        },
+        {
+            "patient": "197",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/197/197_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/197/197_seg.nii.gz"
+        },
+        {
+            "patient": "199",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/199/199_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/199/199_seg.nii.gz"
+        },
+        {
+            "patient": "37",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/37/37_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/37/37_seg.nii.gz"
+        },
+        {
+            "patient": "39",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/39/39_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/39/39_seg.nii.gz"
+        },
+        {
+            "patient": "43",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/43/43_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/43/43_seg.nii.gz"
+        },
+        {
+            "patient": "51",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/51/51_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/51/51_seg.nii.gz"
+        },
+        {
+            "patient": "58",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/58/58_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/58/58_seg.nii.gz"
+        },
+        {
+            "patient": "59",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/59/59_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/59/59_seg.nii.gz"
+        },
+        {
+            "patient": "6",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/6/6_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/6/6_seg.nii.gz"
+        },
+        {
+            "patient": "70",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/70/70_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/70/70_seg.nii.gz"
+        },
+        {
+            "patient": "73",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/73/73_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/73/73_seg.nii.gz"
+        },
+        {
+            "patient": "78",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/78/78_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/78/78_seg.nii.gz"
+        },
+        {
+            "patient": "8",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/8/8_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/8/8_seg.nii.gz"
+        },
+        {
+            "patient": "81",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/81/81_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/81/81_seg.nii.gz"
+        },
+        {
+            "patient": "82",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/82/82_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/82/82_seg.nii.gz"
+        },
+        {
+            "patient": "85",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/85/85_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/85/85_seg.nii.gz"
+        },
+        {
+            "patient": "86",
+            "fold": 3,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/86/86_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/86/86_seg.nii.gz"
+        },
+        {
+            "patient": "10",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/10/10_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/10/10_seg.nii.gz"
+        },
+        {
+            "patient": "111",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/111/111_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/111/111_seg.nii.gz"
+        },
+        {
+            "patient": "117",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/117/117_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/117/117_seg.nii.gz"
+        },
+        {
+            "patient": "118",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/118/118_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/118/118_seg.nii.gz"
+        },
+        {
+            "patient": "132",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/132/132_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/132/132_seg.nii.gz"
+        },
+        {
+            "patient": "142",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/142/142_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/142/142_seg.nii.gz"
+        },
+        {
+            "patient": "144",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/144/144_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/144/144_seg.nii.gz"
+        },
+        {
+            "patient": "146",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/146/146_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/146/146_seg.nii.gz"
+        },
+        {
+            "patient": "148",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/148/148_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/148/148_seg.nii.gz"
+        },
+        {
+            "patient": "150",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/150/150_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/150/150_seg.nii.gz"
+        },
+        {
+            "patient": "151",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/151/151_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/151/151_seg.nii.gz"
+        },
+        {
+            "patient": "156",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/156/156_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/156/156_seg.nii.gz"
+        },
+        {
+            "patient": "163",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/163/163_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/163/163_seg.nii.gz"
+        },
+        {
+            "patient": "166",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/166/166_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/166/166_seg.nii.gz"
+        },
+        {
+            "patient": "178",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/178/178_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/178/178_seg.nii.gz"
+        },
+        {
+            "patient": "179",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/179/179_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/179/179_seg.nii.gz"
+        },
+        {
+            "patient": "182",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/182/182_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/182/182_seg.nii.gz"
+        },
+        {
+            "patient": "189",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/189/189_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/189/189_seg.nii.gz"
+        },
+        {
+            "patient": "191",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/191/191_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/191/191_seg.nii.gz"
+        },
+        {
+            "patient": "192",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/192/192_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/192/192_seg.nii.gz"
+        },
+        {
+            "patient": "195",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/195/195_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/195/195_seg.nii.gz"
+        },
+        {
+            "patient": "196",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/196/196_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/196/196_seg.nii.gz"
+        },
+        {
+            "patient": "23",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/23/23_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/23/23_seg.nii.gz"
+        },
+        {
+            "patient": "28",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/28/28_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/28/28_seg.nii.gz"
+        },
+        {
+            "patient": "35",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/35/35_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/35/35_seg.nii.gz"
+        },
+        {
+            "patient": "36",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/36/36_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/36/36_seg.nii.gz"
+        },
+        {
+            "patient": "4",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/4/4_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/4/4_seg.nii.gz"
+        },
+        {
+            "patient": "53",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/53/53_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/53/53_seg.nii.gz"
+        },
+        {
+            "patient": "55",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/55/55_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/55/55_seg.nii.gz"
+        },
+        {
+            "patient": "60",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/60/60_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/60/60_seg.nii.gz"
+        },
+        {
+            "patient": "63",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/63/63_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/63/63_seg.nii.gz"
+        },
+        {
+            "patient": "7",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/7/7_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/7/7_seg.nii.gz"
+        },
+        {
+            "patient": "77",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/77/77_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/77/77_seg.nii.gz"
+        },
+        {
+            "patient": "80",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/80/80_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/80/80_seg.nii.gz"
+        },
+        {
+            "patient": "84",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/84/84_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/84/84_seg.nii.gz"
+        },
+        {
+            "patient": "89",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/89/89_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/89/89_seg.nii.gz"
+        },
+        {
+            "patient": "92",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/92/92_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/92/92_seg.nii.gz"
+        },
+        {
+            "patient": "93",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/93/93_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/93/93_seg.nii.gz"
+        },
+        {
+            "patient": "96",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/96/96_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/96/96_seg.nii.gz"
+        },
+        {
+            "patient": "99",
+            "fold": 4,
+            "image": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/99/99_img.nii.gz",
+            "mask": "/home/ikboljon.sobirov/data/fs1_research/Ikboljon.Sobirov/imagecas/imagecas/resampled_space/99/99_seg.nii.gz"
+        }
+    ]
+}
